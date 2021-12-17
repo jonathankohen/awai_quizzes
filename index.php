@@ -1,10 +1,5 @@
 <?php
 
-/*
-'question' => '(?:[^\\']|\\\\|\\')*',
-'question' => '',
-*/
-
 $quizzes = array(
 
     1 => array(
@@ -21,62 +16,42 @@ $quizzes = array(
             ),
             array(
                 'question' => 'Which of the following is most like a newsletter in the style of information it delivers.',
-                'right' => 'All of these',
+                'right' => 'A newspaper',
                 'wrong' => array(
-                    'A newspaper',
-                    'A letter to a friend',
                     'A listicle',
-                    'A sales letter',
-
+                    'A letter to a friend',
+                    'A sales letter'
                 ),
             ),
             array(
                 'question' => 'What is a big advantage of writing newsletters?',
-                'right' => 'Marketing email has a clear intention',
+                'right' => 'All of the above',
                 'wrong' => array(
-                    'Marketing email cannot show the writer&rsquo;s personality',
-                    'Marketing email can be more dishonest',
-                    'Marketing email is always shorter',
+                    'It’s fun',
+                    'It comes on a consistent schedule',
+                    'It’s a steady source of income',
                 ),
             ),
             array(
                 'question' => 'What is a key aspect of getting started writing newsletters?',
-                'right' => 'A clear goal',
+                'right' => 'Picking a narrow field',
                 'wrong' => array(
-                    'As much information as possible',
-                    'A sending list of at least 3000 people',
-                    'Information that can&rsquo;t be found anywhere else',
+                    'Knowing someone who already needs a newsletter',
+                    'Having written other kinds of copy before',
+                    'Having journalism experience',
                 ),
             ),
             array(
-                'question' => 'A newsletter that tells people how to use products already purchased from a company has a goal of',
-                'right' => 'Tell the reader about your day',
+                'question' => 'A newsletter that tells people how to use products already purchased from a company has a goal of ',
+                'right' => 'Buyer Retention',
                 'wrong' => array(
-                    'To generate a sale',
-                    'Give the reader free gifts',
-                    'Alert the customer to if there is something wrong with their account',
+                    'Giving information to the reader',
+                    'Lead generation',
+                    'None of the above',
                 ),
             ),
             array(
                 'question' => 'True/False – It is not uncommon for an organization to have more than one newsletter to serve different audiences/purposes.',
-                'right' => 'The subject line',
-                'wrong' => array(
-                    'The body of the email',
-                    'The sender&rsquo;s email address',
-                    'The sender&rsquo;s signature',
-                ),
-            ),
-            array(
-                'question' => 'What is the typical word count range for an email?',
-                'right' => '100-800 words',
-                'wrong' => array(
-                    '300-500 words',
-                    '800-1000 words',
-                    '100-400 words',
-                ),
-            ),
-            array(
-                'question' => 'True/False: Email writing forces you to become a better writer and thinker.',
                 'right' => 'True',
                 'wrong' => array(
                     'False',
