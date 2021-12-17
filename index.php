@@ -66,69 +66,44 @@ $quizzes = array(
         'questions' => array(
 
             array(
-                'question' => 'What are three aspects of the relationship between the sender and recipient of an email that make it more likely for that person to open the email.',
-                'right' => 'If the recipient knows the sender, likes the sender, and trust the sender',
+                'question' => 'One of the biggest advantages an organization gains from using newsletters to build their audience is that ____',
+                'right' => 'The organization owns the list of emails that is built from their subscribers',
                 'wrong' => array(
-                    'If the recipient has purchased from the sender before, has seen other advertisements for the sender, and if the recipient can easily read the sender&rsquo;s name',
-                    'If the recipient has never heard of the sender, has opened emails from similar senders, and trusts the sender',
-                    'If the recipient knows the sender, likes the sender, and has opened emails from similar senders',
+                    'The organization is given a direct line of communication with their customers',
+                    'People check their email more often than they check their social media accounts',
+                    'The organization can sell that email list to other companies',
                 ),
             ),
             array(
-                'question' => 'What is the question in the reader&rsquo;s mind that you must always try to answer with your email?',
-                'right' => 'What&rsquo;s in it for me?',
+                'question' => 'Which of the following questions should you, as a writer, consider when constructing a newsletter?',
+                'right' => 'None of the above',
                 'wrong' => array(
-                    'Why should I keep reading emails from this person/company?',
-                    'How do I receive less email overall?',
-                    'Will this company want me to write emails for them?',
+                    'How can I turn a stranger into a reader of this publication?',
+                    'How can you get the reader to only read this newsletter, and no others?',
+                    'How do I make this sound more like other newsletters from the same field, in order to  stay consistent with the voices of other publications?',
                 ),
             ),
             array(
-                'question' => 'What is a subject line similar to in other forms of copy?',
-                'right' => 'The headline',
-                'wrong' => array(
-                    'The body copy',
-                    'The lead',
-                    'The finish',
-                ),
-            ),
-            array(
-                'question' => 'True/False: You want to write your email as if you are talking to a close friend.',
+                'question' => 'True/False: A newsletter should feel like a one-to-one conversation between the voice of the newsletter and the reader',
                 'right' => 'True',
                 'wrong' => array(
                     'False',
                 ),
             ),
             array(
-                'question' => 'What is a Call to Action?',
-                'right' => 'The Call to Action is stating what you want the reader to do next.',
-                'wrong' => array(
-                    'The Call to Action is stating why the reader needs to re-read the email.',
-                    'The Call to Action is the responsibility given to the reader by the email.',
-                    'The Call to Action is what inspires you to write the next email in the series.',
-                ),
-            ),
-            array(
-                'question' => 'True/False: The goal of most (but not all) &ldquo;calls to action&rdquo; is for the email recipient to read the body of the email.',
+                'question' => 'True/False: B2B Newsletters and B2C Newsletters are completely different from one another',
                 'right' => 'False',
                 'wrong' => array(
                     'True',
                 ),
             ),
             array(
-                'question' => 'The language of a &ldquo;Call to Action&rdquo; should be',
-                'right' => 'Short and action-oriented',
+                'question' => 'A good newsletter aims to ___ the reader.',
+                'right' => 'Help',
                 'wrong' => array(
-                    'Long and passive',
-                    'Long and action-oriented',
-                    'Short and passive',
-                ),
-            ),
-            array(
-                'question' => 'True/False: Your P.S. should include some sort of unique fact, benefit or quick synopsis of the body of the email.',
-                'right' => 'True',
-                'wrong' => array(
-                    'False',
+                    'Sell to',
+                    'Befriend',
+                    'Indoctrinate',
                 ),
             ),
         ),
