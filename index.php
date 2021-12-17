@@ -223,6 +223,7 @@ $quizzes = array(
                     'It makes your client appear savvy in their field.',
                     'It makes your client appear cutting edge.',
                     'It makes your client appear open about potential flaws in their product.',
+                )
             ),
             array(
                 'question' => 'How can you answer common question in a newsletter?',
@@ -270,7 +271,7 @@ $quizzes = array(
                 'question' => "Which of the following is an example of a Newsletter's mission?",
                 'right' => 'To retain customers who already patronize the client.',
                 'wrong' => array(
-                    'A story about a customer’s success with the client’s product.',
+                    "A story about a customer’s success with the client’s product.",
                     'A picture of the client’s staff.',
                     'A signup for a contest being held by the client.',
                 ),
@@ -279,7 +280,7 @@ $quizzes = array(
                 'question' => 'Which of the following is a content approach?',
                 'right' => 'Using entirely originally written articles to populate the newsletter.',
                 'wrong' => array(
-                    'A picture of the client’s staff.',
+                    "A picture of the client's staff.",
                     'A link to an article relevant to the newsletter.',
                     'A signup for a contest being help by the client.',
                 ),
@@ -348,7 +349,7 @@ $quizzes = array(
                 ),
             ),
             array(
-                'question' => 'The following opening sentence is which style of &ldquo;tried and true&rdquo; opening sentence:<br /><em>What I&rsquo;m about to tell you isn&rsquo;t a secret, but Wallstreet sure wishes it was.</em>',
+                'question' => 'The following opening sentence is which style of &ldquo;tried and true&rdquo; opening sentence:<br /><em>What I&rsquo;m about to tell you isn&rsquo;t a secret, but Wall Street sure wishes it was.</em>',
                 'right' => 'Surprising Statement',
                 'wrong' => array(
                     'Curiosity + Benefit',
@@ -585,7 +586,7 @@ $quizzes = array(
                     'The price of the related product',
                     'Scientific data about the product',
                     'At least 1000 people who will definitely read the email.',
-                ),
+                )
             ),
         ),
     ),
