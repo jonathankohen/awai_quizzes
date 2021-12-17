@@ -258,41 +258,43 @@ $quizzes = array(
         'questions' => array(
 
             array(
-                'question' => 'What is pre-framing?',
-                'right' => 'Shifting someone&rsquo;s perspective in order to make them more likely to say yes to your proposal.',
+                'question' => '_____ keep(s) readers coming back to the same newsletter again and again.',
+                'right' => 'Consistency',
                 'wrong' => array(
-                    'Sending a series of emails that build towards a final goal',
-                    'Writing out your emails in word before sending them out.',
-                    'Studying your client&rsquo;s website in order to get a better idea of what voice you should use in your email.',
+                    'Helpful Advice',
+                    'An ever-changing format',
+                    'New versions of the same idea',
                 ),
             ),
             array(
-                'question' => 'What is the goal of the Power of One?',
-                'right' => 'To make sure your copy has one cohesive goal that is trying to achieve.',
+                'question' => "Which of the following is an example of a Newsletter's mission?",
+                'right' => 'To retain customers who already patronize the client.',
                 'wrong' => array(
-                    'To make sure your client is only trying to sell one product at a time.',
-                    'To make sure your copy can fit on one page of a word document.',
-                    'To make sure your client is only working with one email marketer (you).',
+                    'A story about a customer’s success with the client’s product.',
+                    'A picture of the client’s staff.',
+                    'A signup for a contest being held by the client.',
                 ),
             ),
             array(
-                'question' => 'True/False: Pre-framing is trying to induce a state of logical analysis in the reader.',
-                'right' => 'False',
+                'question' => 'Which of the following is a content approach?',
+                'right' => 'Using entirely originally written articles to populate the newsletter.',
                 'wrong' => array(
-                    'True',
+                    'A picture of the client’s staff.',
+                    'A link to an article relevant to the newsletter.',
+                    'A signup for a contest being help by the client.',
                 ),
             ),
             array(
-                'question' => 'If you were trying to get the reader of your email to switch to an all-organic food diet, telling them about misconceptions of organic food being expensive is an example of:',
-                'right' => 'Setting up a context',
+                'question' => 'Which of the following is a call to action?',
+                'right' => 'A signup for a contest being held by the client.',
                 'wrong' => array(
-                    'Metaphors and similes',
-                    'Painting a compelling picture',
-                    'Telling a story',
+                    "A story about a customer's success with the client's product.",
+                    'Using entirely originally written articles to populate the newsletter.',
+                    'A link to an article relevant to the newsletter.',
                 ),
             ),
             array(
-                'question' => 'True/False: Certain &ldquo;Go-to&rdquo; pre-framing forms just won&rsquo;t work with certain products',
+                'question' => 'True/False: All newsletters follow the same formula.',
                 'right' => 'False',
                 'wrong' => array(
                     'True',
