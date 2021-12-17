@@ -8,7 +8,7 @@ $quizzes = array(
         'questions' => array(
 
             array(
-                'question' => 'True/False – A newsletter will always center around information that will lead to sales.',
+                'question' => 'True/False - A newsletter will always center around information that will lead to sales.',
                 'right' => 'False',
                 'wrong' => array(
                     'True'
@@ -27,9 +27,9 @@ $quizzes = array(
                 'question' => 'What is a big advantage of writing newsletters?',
                 'right' => 'All of the above',
                 'wrong' => array(
-                    'It’s fun',
+                    "It's fun",
                     'It comes on a consistent schedule',
-                    'It’s a steady source of income',
+                    "It's a steady source of income",
                 ),
             ),
             array(
@@ -51,7 +51,7 @@ $quizzes = array(
                 ),
             ),
             array(
-                'question' => 'True/False – It is not uncommon for an organization to have more than one newsletter to serve different audiences/purposes.',
+                'question' => 'True/False - It is not uncommon for an organization to have more than one newsletter to serve different audiences/purposes.',
                 'right' => 'True',
                 'wrong' => array(
                     'False',
@@ -127,16 +127,16 @@ $quizzes = array(
                 'wrong' => array(
                     'Commentary on current events in a newsletter aimed at restaurant owners.',
                     'An original horoscope reading in a newsletter aimed at repeat museum patrons.',
-                    'Personal life details of an employee of an accounting firm in a newsletter aimed at the accounting firm’s clients.',
+                    "Personal life details of an employee of an accounting firm in a newsletter aimed at the accounting firm's clients.",
                 ),
             ),
             array(
                 'question' => 'Which of the following I an example of the kind of original content you might find in a newsletter?',
-                'right' => 'Personal life details of an employee of an accounting firm in a newsletter aimed at the accounting firm’s clients.',
+                'right' => "Personal life details of an employee of an accounting firm in a newsletter aimed at the accounting firm's clients.",
                 'wrong' => array(
                     'New manufacturing specs for the latest Ford truck in a newsletter aimed at car dealership customers.',
                     'An original horoscope reading in a newsletter aimed at repeat museum patrons.',
-                    'Personal life details of an employee of an accounting firm in a newsletter aimed at the account firm’s clients.',
+                    "Personal life details of an employee of an accounting firm in a newsletter aimed at the account firm's clients.",
                 ),
             ),
             array(
@@ -169,8 +169,8 @@ $quizzes = array(
                 'right' => 'Employee Newsletter',
                 'wrong' => array(
                     'POV Newsletter',
-                    'Curated Newsletter',
                     'Nonprofit Newsletter',
+                    'Curated Newsletter',
                 ),
             ),
         ),
@@ -182,97 +182,71 @@ $quizzes = array(
         'questions' => array(
 
             array(
-                'question' => 'True/False - You should try to envision your relationship with your prospect like a relationship with a work colleague.',
+                'question' => 'The reader to get familiar/look forward to those sections.',
                 'right' => 'False',
                 'wrong' => array(
-                    'True',
+                    'The reader to not have to read the entire newsletter, as they know what is happening.',
+                    'You to have an easier time writing the newsletter.',
+                    'You to create an easy to follow narrative thread from newsletter to newsletter.',
                 ),
             ),
             array(
-                'question' => 'Which stage of the Buyer&rsquo;s Journey is the following prospect in:<br /><em>Someone who casually listens to Spotify on their headphones, and has no interest in buying physical media like vinyl records.</em>',
-                'right' => 'Unaware',
+                'question' => 'Your lead should be which of the following:',
+                'right' => 'Relevant, useful and riveting',
                 'wrong' => array(
-                    'Problem Aware',
-                    'Solution Aware',
-                    'Product Aware',
-                    'Most Aware',
+                    'Meaningful, heartfelt and sympathetic',
+                    'Mysterious, irreverent or challenging',
+                    'Caustic, antagonistic and difficult',
                 ),
             ),
             array(
-                'question' => 'Which stage of the Buyer&rsquo;s Journey is the following prospect in:<br /><em>Someone who was given a vinyl record by their favorite artist as a gift, and is interested in finding a way to play it.</em>',
-                'right' => 'Problem Aware',
+                'question' => "True/False: You don't have to provide graphics for your client, but it is a great service to suggest graphical elements for use in the newsletter.",
+                'right' => 'True',
                 'wrong' => array(
-                    'Solution Aware',
-                    'Product Aware',
-                    'Most Aware',
-                    'Unaware',
+                    'False',
                 ),
+
             ),
             array(
-                'question' => 'Which stage of the Buyer&rsquo;s Journey is the following prospect in:<br /><em>Someone who has a small collection of vinyl records and a suitcase style record player, but has found out that this styles of record player can cause damage to their records, so they are interested in something sturdier and capable of producing better sound.</em>',
-                'right' => 'Solution Aware',
+                'question' => 'What is an advantage that including Success Stories in a newsletter provides?',
+                'right' => 'It builds trust and credibility in the client',
                 'wrong' => array(
-                    'Product Aware',
-                    'Problem Aware',
-                    'Most Aware',
-                    'Unaware',
+                    'It makes the reader pay closer attention to the newsletter',
+                    'It makes the reader feel good',
+                    "It helps the reader better understand the client's products.",
                 ),
             ),
             array(
-                'question' => 'Which stage of the Buyer&rsquo;s Journey is the following prospect in:<br /><em>Someone who has a decent turntable but is playing it through their digital bookshelf speakers. After purchasing the better turntable they have continued to research and found that in order to get the best possible sound out of their player, they will need to upgrade their setup in regards to their speakers and amplifiers. They have found several manufacturers of analog audio equipment but are still unsure as to which brand they want to buy from.</em>',
-                'right' => 'Product Aware',
+                'question' => 'What advantage does providing “Tips and Tricks” to the reader in a newsletter provide?',
+                'right' => 'It makes your client appear helpful to the reader.',
                 'wrong' => array(
-                    'Solution Aware',
-                    'Problem Aware',
-                    'Most Aware',
-                    'Unaware',
-                ),
+                    'It makes your client appear savvy in their field.',
+                    'It makes your client appear cutting edge.',
+                    'It makes your client appear open about potential flaws in their product.',
             ),
             array(
-                'question' => 'Which stage of the Buyer&rsquo;s Journey is the following prospect in:<br /><em>Someone who has narrowed down their speaker selection to a few manufacturers, but is trying to find out which company will give them the best offer, has the best repair services, and is most likely to support them as a customer after their initial purchase.</em>',
-                'right' => 'Most Aware',
+                'question' => 'How can you answer common question in a newsletter?',
+                'right' => 'Break down the Q&A page into a few questions per newsletter.',
                 'wrong' => array(
-                    'Solution Aware',
-                    'Problem Aware',
-                    'Product Aware',
-                    'Unaware',
+                    'Ask the client what questions they feel need to be answered, and then answer those.',
+                    'Reach out to newsletter subscribers and answer their questions directly in the next newsletter.',
+                    "Try to anticipate what reader questions will be based on your own experience of the client's site and products, and then answer those questions.",
                 ),
             ),
             array(
-                'question' => 'Who should you ask about your prospect in order to get a better idea of what stage of the Buyer&rsquo;s Journey they&rsquo;re in?',
-                'right' => 'Your client',
-                'wrong' => array(
-                    'The recipients of your email',
-                    'Another email marketer',
-                    'None of these',
-                ),
-            ),
-            array(
-                'question' => 'True/False: You would use a conversational and friendly &ldquo;voice&rdquo; in an email trying to sell to small-scale home-gardeners.',
+                'question' => 'True/False: It is a good idea to split your newsletter 50/50 in terms of content and promotional material.',
                 'right' => 'True',
                 'wrong' => array(
                     'False',
                 ),
             ),
             array(
-                'question' => 'True/False: You would use a more formal and conservative &ldquo;voice&rdquo; in an email trying to sell to fans of rock music.',
-                'right' => 'False',
+                'question' => 'Which of these is NOT an example of a Call to Action?',
+                'right' => 'Giving a profile of a company employee',
                 'wrong' => array(
-                    'True',
-                ),
-            ),
-            array(
-                'question' => 'True/False: A shocking voice would appeal to a customer looking to buy High-end luxury goods.',
-                'right' => 'False',
-                'wrong' => array(
-                    'True',
-                ),
-            ),
-            array(
-                'question' => 'True/False: A goofy voice would work well in trying to get people to sign up for a financial newsletter;',
-                'right' => 'False',
-                'wrong' => array(
-                    'True',
+                    'Including a survey and publishing the results',
+                    'Inviting readers to send in stories, and then publishing them',
+                    'Shouting out customers who talk about the client on social media',
                 ),
             ),
         ),
