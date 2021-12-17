@@ -115,91 +115,62 @@ $quizzes = array(
         'questions' => array(
 
             array(
-                'question' => 'What are the two main goals of the subject line?',
-                'right' => 'To get the reader to open the email and to get the reader to want to read the first line of the email.',
-                'wrong' => array(
-                    'To get the reader to open the email and read the entirety of the body.',
-                    'To get the reader to read the first line of the email and remember who sent it.',
-                    'None of these',
-                ),
-            ),
-            array(
-                'question' => 'What aspect of the C+B+P formula is the primary aspect of this subject line:<br /><em>We&rsquo;ve got a surprise of you!</em>',
-                'right' => 'Curiosity',
-                'wrong' => array(
-                    'Benefit',
-                    'Proof',
-                ),
-            ),
-            array(
-                'question' => 'What aspect of the C+B+P formula is the primary aspect of this subject line:<br /><em>Get your dog to stop barking at strangers</em>',
-                'right' => 'Benefit',
-                'wrong' => array(
-                    'Curiosity',
-                    'Proof',
-                ),
-            ),
-            array(
-                'question' => 'What aspect of the C+B+P formula is the primary aspect of this subject line:<br /><em>Study shows red wine can improve heart health</em>',
-                'right' => 'Proof',
-                'wrong' => array(
-                    'Curiosity',
-                    'Benefit',
-                ),
-            ),
-            array(
-                'question' => 'True/False: You can only use one aspect of the C+B+P formula per subject line.',
-                'right' => 'False',
-                'wrong' => array(
-                    'True',
-                ),
-            ),
-            array(
-                'question' => 'Which of these is a good source to pull from when trying to show proof?',
-                'right' => 'All of these',
-                'wrong' => array(
-                    'A celebrity',
-                    'The IRS',
-                    'CNN',
-                ),
-            ),
-            array(
-                'question' => 'True/False: Personalization can be overused.',
+                'question' => 'True/False: You are not expected to provide the design elements of a newsletter.',
                 'right' => 'True',
                 'wrong' => array(
                     'False',
                 ),
             ),
             array(
-                'question' => 'True/False: You should use less known emoji&rsquo;s in order to peak the reader&rsquo;s curiosity.',
+                'question' => 'Which of the following is an example of the kind of curated content you might find a newsletter?',
+                'right' => 'New manufacturing specs for the latest Ford truck in a newsletter aimed at car dealership customers.',
+                'wrong' => array(
+                    'Commentary on current events in a newsletter aimed at restaurant owners.',
+                    'An original horoscope reading in a newsletter aimed at repeat museum patrons.',
+                    'Personal life details of an employee of an accounting firm in a newsletter aimed at the accounting firm’s clients.',
+                ),
+            ),
+            array(
+                'question' => 'Which of the following I an example of the kind of original content you might find in a newsletter?',
+                'right' => 'Personal life details of an employee of an accounting firm in a newsletter aimed at the accounting firm’s clients.',
+                'wrong' => array(
+                    'New manufacturing specs for the latest Ford truck in a newsletter aimed at car dealership customers.',
+                    'An original horoscope reading in a newsletter aimed at repeat museum patrons.',
+                    'Personal life details of an employee of an accounting firm in a newsletter aimed at the account firm’s clients.',
+                ),
+            ),
+            array(
+                'question' => 'What is an advantage for the readers of “Digest” style newsletters?',
+                'right' => 'They are easy to scroll and scan.',
+                'wrong' => array(
+                    'They can only provide true information.',
+                    'Their main goal is to expand the mind of the reader.',
+                    'They maintain a more journalistic voice.',
+                ),
+            ),
+            array(
+                'question' => 'POV/Episodic newsletters focus on which of the following?',
+                'right' => 'The personal insights/stories of the writer aimed at a specific audience.',
+                'wrong' => array(
+                    'A series of newsletters all written with the same voice.',
+                    'The writer writes in the voice of another professional.',
+                    'A continuous narrative from newsletter to newsletter.',
+                ),
+            ),
+            array(
+                'question' => 'True/False: Certain styles of newsletters only work for certain types of clients.',
                 'right' => 'False',
                 'wrong' => array(
                     'True',
                 ),
             ),
             array(
-                'question' => 'What is the maximum number of characters you want to use in your subject line?',
-                'right' => '65',
+                'question' => 'A newsletter aimed at the workforce of a company is a(n) ____',
+                'right' => 'Employee Newsletter',
                 'wrong' => array(
-                    '60',
-                    '75',
-                    '70',
-                ),
-            ),
-            array(
-                'question' => 'Capital letters in a subject line make an email feel more:',
-                'right' => 'Formal',
-                'wrong' => array(
-                    'Angry',
-                    'Important',
-                    'Personal',
-                ),
-            ),
-            array(
-                'question' => 'True/False: The preview text should continue the conversation started by the subject line.',
-                'right' => 'True',
-                'wrong' => array(
-                    'False',
+                    'POV Newsletter',
+                    'Curated Newsletter',
+                    'Nonprofit Newsletter',
                 ),
             ),
         ),
